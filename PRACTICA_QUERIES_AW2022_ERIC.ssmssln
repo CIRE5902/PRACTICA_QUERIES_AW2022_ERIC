@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "PRACTICA_QUERIES_AW2022_ERIC", "PRACTICA_QUERIES_AW2022_ERIC\PRACTICA_QUERIES_AW2022_ERIC.ssmssqlproj", "{AAFAA133-69A1-4B12-9EA4-F81E2E85919F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9942FBF9-51C2-4294-8E80-49AF52C4DB55}.Default|Default.ActiveCfg = Default
+		{AAFAA133-69A1-4B12-9EA4-F81E2E85919F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D815E7D5-971A-4732-8B7B-44BE4D20C0DD}
+	EndGlobalSection
+EndGlobal
